@@ -1,0 +1,14 @@
+-- TABLE
+CREATE TABLE CLIENTE (
+id INTEGER PRIMARY KEY NOT NULL,
+nome VARCHAR (80),
+email VARCHAR (40),
+telefone INTEGER
+);
+ 
+-- INDEX
+ 
+-- TRIGGER
+ 
+-- VIEW
+ 
